@@ -25,12 +25,13 @@ function App() {
         </p>
         <div className="submitted">
           <p className="label">Submitted by:</p>
-          <p>Chanyanat Sodsri — B6508852</p>
-          <p>Kamonchanok Thonnondang — B6526405</p>
+          <p>Parichat Sujarit — B6509293</p>
+          <p>Nadthapat Phuttaruksa — B6515652</p>
         </div>
       </div>
     </div>
   );
 }
+
 
 export default App;
