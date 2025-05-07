@@ -37,7 +37,7 @@ export default function App() {
         </section>
 
         <section className={`p-6 rounded-lg shadow-md ${darkMode ? 'bg-gray-800' : 'bg-white'}`}>
-          <h2 className="text-xl font-semibold mb-4">PowerPuff</h2>
+          <h2 className="text-xl font-semibold mb-4">PowerPuff Member</h2>
           
           <div className="flex mb-4">
             B6509293 Parichat Sujarit
