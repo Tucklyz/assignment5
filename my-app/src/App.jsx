@@ -21,7 +21,7 @@ function App() {
         <img src={catGif} alt="Cat" className="cat-gif" />
         <h1>🚀 Assignment 5</h1>
         <p className="subtitle">
-          Firebase Auto Deployment with Jenkins Pipeline .
+          Firebase Auto Deployment with Jenkins Pipeline
         </p>
         <div className="submitted">
           <p className="label">Submitted by:</p>
